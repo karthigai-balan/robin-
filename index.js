@@ -1,4 +1,5 @@
 let a=10;
 let b=20;
 let c=a+b;
-console.log("The add value is " +c);
+let d=c-10
+console.log("The add value is " +d);
